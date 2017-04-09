@@ -19,5 +19,7 @@ includeSourceDocuments()
 <!-- Don't edit the material above this line -->
 
 Friend: Are you taking Stat 133 this semester?
+
 Me: Yup!
+
 Friend: Ah, I see you are a man of culture as well.
